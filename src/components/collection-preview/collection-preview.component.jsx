@@ -1,5 +1,5 @@
 import "./collection-preview.styles.scss";
-import CollectionItem from "../collection-item/collecttion-item.component";
+import CollectionItem from "../collection-item/collection-item.component";
 
 const CollectionPreview = ({ title, items }) => (
 	<div className="collection-preview">
