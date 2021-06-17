@@ -1,5 +1,3 @@
-import "./header.styles.scss";
-import { Link } from "react-router-dom";
 import { connect } from "react-redux";
 import { createStructuredSelector } from "reselect";
 
